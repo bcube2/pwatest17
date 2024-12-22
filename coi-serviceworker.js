@@ -114,5 +114,3 @@ if (typeof window === 'undefined') {
         }
     })();
 }
-
-importScripts('sw.js');

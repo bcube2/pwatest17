@@ -2,9 +2,9 @@
   "name": "Solver 2",
   "short_name": "Solver 2",
   "theme_color": "#ffffff",
-  "background_color": "#000000",
+  "background_color": "#38383D",
   "display": "standalone",
-  "start_url": "solve.html?use_dist3=2&stl=0&snc=1&log_brief=1",
+  "start_url": "solve.html?use_dist3=2&stl=5s&snc=1&log_brief=1",
   "icons": [
     {
       "src": "cube192.png",
